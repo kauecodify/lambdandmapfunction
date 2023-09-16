@@ -1,0 +1,5 @@
+# lambda functions - rectangle area
+
+rectangle_area = lambda b,h: b*h
+
+#debbug > rectangle_area(5,9)
