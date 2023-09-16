@@ -1,0 +1,5 @@
+#lambda functions - square calculator
+
+square_area2 = lambda x: x**2
+
+# debbug > square_area2 (7)
